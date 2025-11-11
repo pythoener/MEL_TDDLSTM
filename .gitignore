@@ -12,3 +12,8 @@ venv/
 Thumbs.db
 .DS_Store
 *.log
+*.keras
+*.h5
+*.tflite
+*.dat
+*.pkl
