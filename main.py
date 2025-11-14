@@ -139,7 +139,7 @@ def create_dataset_stft(file_path):
 
 
 # Process the TIMIT dataset
-target_folder = r'E:\Raw Data\TIMIT_BWE_SF\01_Train\OriginalHigh'
+target_folder = r'DSET\train\clean'
 
 
 drfolders = os.listdir(target_folder)
